@@ -69,4 +69,5 @@ int main()
     cin>>s;
     ans = longestPalindromicSubstring(s);
     cout<<ans<<endl;
+    return 0;
 }
