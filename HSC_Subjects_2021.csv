@@ -1,0 +1,206 @@
+board,code,name,subject,group
+GEN,101,BENGALI,BNG,
+GEN,102,BENGALI,BNG,
+GEN,107,ENGLISH,ENG,
+GEN,108,ENGLISH,ENG,
+GEN,109,ECONOMICS,ECO,
+GEN,110,ECONOMICS,ECO,
+GEN,117,SOCIOLOGY,SOC,
+GEN,118,SOCIOLOGY,SOC,
+GEN,121,LOGIC,LOG,
+GEN,122,LOGIC,LOG,
+GEN,123,PSYCHOLOGY,,SCI
+GEN,124,PSYCHOLOGY,,SCI
+GEN,125,GEOGRAPHY,,SCI
+GEN,126,GEOGRAPHY,,SCI
+GEN,129,STATISTICS,STA,
+GEN,130,STATISTICS,STA,
+GEN,133,ARABIC,,
+GEN,137,SANSKRIT,,
+GEN,138,SANSKRIT,,
+GEN,139,PALI,,
+GEN,158,SPORTS_FOOTBALL,,
+GEN,160,SPORTS_HOCKEY,,
+GEN,162,SPORTS_CRICKET,,
+GEN,164,SPORTS_TENNIS,,
+GEN,168,SPORTS_SWIMMING,,
+GEN,170,SPORTS_ATHELATICS,,
+GEN,174,PHYSICS,PHY,SCI
+GEN,176,CHEMISTRY,CHE,SCI
+GEN,178,BIOLOGY,BIO,SCI
+GEN,180,ENGINEERING_DRAWING,,SCI
+GEN,188,COMMERCIAL_GEOGRAPHY,CGE,BUS
+MAD,201,QURAN_MAZID,,
+MAD,202,QURAN_MAZID,,
+MAD,203,ARABIC_SCIENCE_MUZABBID_&_FIQUH,,
+MAD,204,AL_FIQUH,,
+MAD,205,ARABIC,,
+MAD,206,ARABIC,,
+MAD,209,ISLAMIC_HISTORY,,
+MAD,210,ISLAMIC_HISTORY,,
+MAD,213,ISLAMIC_ECONOMICS,,
+MAD,214,ISLAMIC_ECONOMICS,,
+GEN,216,LIGHT_MUSIC,,
+GEN,217,LIGHT_MUSIC,,
+GEN,218,CLASSICAL_MUSIC,,
+MAD,219,URDU,,
+GEN,220,GYMNASTICS,,
+MAD,221,FARSI,,
+MAD,224,PHYSICS,PHY,SCI
+GEN,225,ARTS_CRAFTS,,
+GEN,226,ARTS_CRAFTS,,
+MAD,226,CHEMISTRY,CHE,SCI
+MAD,228,MATHEMATICS,MAT,SCI
+MAD,230,BIOLOGY,BIO,SCI
+MAD,236,Bangla,BNG,
+MAD,237,Bangla,BNG,
+MAD,238,English,ENG,
+GEN,239,AGRICULTURE_STUD,,SCI
+MAD,239,English,ENG,
+GEN,240,AGRICULTURE_STUD,,SCI
+MAD,240,ICT,,
+MAD,241,CIVICS & GOOD GOV.-I,CIV,
+MAD,242,CIVICS & GOOD GOV.-II,CIV,
+GEN,249,ISLAMIC_STUDIES,,
+GEN,250,ISLAMIC_STUDIES,,
+GEN,253,ACCOUNTING,,BUS
+GEN,254,ACCOUNTING,,BUS
+GEN,257,SPORTS_BASKET_BALL,,
+GEN,265,HIGHER MATH,MAT,SCI
+GEN,266,HIGHER MATH,MAT,SCI
+GEN,267,ISLAMIC HISTORY,,
+GEN,268,ISLAMIC HISTORY,,
+GEN,269,CIVICS,CIV,
+GEN,270,CIVICS,CIV,
+GEN,271,SOCIAL WORK,SCW,
+GEN,272,SOCIAL WORK,SCW,
+GEN,273,HOME SCIENCE,,
+GEN,274,HOME SCIENCE,,
+GEN,275,ICT,,
+GEN,277,BUSINESS ORGANIZATION & MANAGEMENT,,BUS
+GEN,278,BUSINESS ORGANIZATION & MANAGEMENT,,BUS
+GEN,279,FOOD & NUTRITION,,SCI
+GEN,280,FOOD & NUTRITION,,SCI
+GEN,282,HOME MANAGEMENT,,
+GEN,283,HOME MANAGEMENT,,
+GEN,284,ART & TEXTILE,,
+GEN,285,ART & TEXTILE,,
+GEN,286,PRODUCTION,,BUS
+GEN,287,PRODUCTION,,BUS
+GEN,288,SOIL SCIENCE,,SCI
+GEN,292,FINANCE BANKING,,BUS
+GEN,293,FINANCE BANKING,,BUS
+GEN,298,CHILD DEVELOPMENT,SCW,
+GEN,299,CHILD DEVELOPMENT,SCW,
+GEN,300,JUDO,,
+GEN,304,HISTORY,,
+GEN,305,HISTORY,,
+GEN,306,WUSHU,,
+GEN,308,KARATE,,
+GEN,310,TAEKWONDO,,
+GEN,312,TABLE TENNIS,,
+TEC,1121,Bangla,BNG,
+TEC,1122,English,ENG,
+TEC,1324,Agricultural Education,,SCI
+TEC,1326,Higher Engineering Drawing and Surveying,,SCI
+TEC,1414,Computer Application,,SCI
+TEC,1421,Higher Mathematics,MAT,SCI
+TEC,1422,Physics,PHY,SCI
+TEC,1423,Chemistry,CHE,SCI
+TEC,1521,Self-Employment and Entrepreneurship,,BUS
+TEC,1714,Accounting,,BUS
+TEC,1715,Banking and Insurance,,BUS
+TEC,1716,Office Management and Automation,,
+TEC,1717,Business Geography,CGE,BUS
+TEC,1718,Life Skill Development,,
+TEC,1721,Bangla-II,BNG,
+TEC,1722,English-II,ENG,
+TEC,1723,Computer Office Application-II,,
+TEC,1724,Secretarial and Professional Practices,,
+TEC,1725,Business English and Communication,,BUS
+TEC,1726,Economics,ECO,
+TEC,1727,Personal Grumming,,
+TEC,1728,Business Organization,,BUS
+TEC,1814,Business Mathematics and Statistics,,BUS
+TEC,1816,Economics and Commercial Geography,ECG,BUS
+TEC,1821,Bangla,BNG,
+TEC,1822,English,ENG,
+TEC,1823,Computer Office Application,,
+TEC,1824,Business English and Communication,,BUS
+TEC,1825,Principles and Practices of Accounting,,BUS
+TEC,1826,Office Management,,
+TEC,1827,Business Organization and Management,,BUS
+TEC,1828,Principles and Practices of Marketing,,BUS
+TEC,1872,Industrial Attachment Training,,
+TEC,2121,Agro-Machinery Trade,,
+TEC,2128,"Production Planning, Control and Costing (1st Year) and Higher Accounting (2nd Year)",,BUS
+TEC,2182,Industrial Training,,
+TEC,2192,Industrial Attachment Training,,
+TEC,2228,"Finance, Banking and Insurance (1st Year) and Banking Accounting (2nd Year)",,BUS
+TEC,2282,Industrial Training,,
+TEC,2328,Computer Programming (1st Year) and Database Management System (2nd Year),,SCI
+TEC,2382,Industrial Training,,
+TEC,2428,Entrepreneurship (1st Year) and Small Business Management (2nd Year),,BUS
+TEC,2482,Industrial Training,,
+TEC,2521,Computer Operation and Maintenance,,
+TEC,2528,Secretarial Practices (1st Year) and Life Skills Development (2nd Year),,
+TEC,2582,Industrial Training,,
+TEC,2592,Industrial Attachment Training,,
+TEC,2721,Electrical Works and Maintenance,,SCI
+TEC,2792,Industrial Attachment Training,,
+TEC,81121,Bangla,BNG,
+TEC,81122,English,ENG,
+TEC,81327,Agricultural Education,,SCI
+TEC,81328,Statistics,STA,
+TEC,81329,Higher Engineering Drawing and Surveying,,SCI
+TEC,81414,Computer Application,,SCI
+TEC,81421,Higher Mathematics,MAT,SCI
+TEC,81422,Physics,PHY,SCI
+TEC,81423,Chemistry,CHE,SCI
+TEC,81521,Self-Employment and Entrepreneurship,,BUS
+TEC,82121,Trade,,
+TEC,82122,Trade,,
+TEC,82192,Industrial Attachment Training,,
+TEC,82221,Trade,,
+TEC,82222,Trade,,
+TEC,82292,Industrial Attachment Training,,
+TEC,82321,Trade,,
+TEC,82322,Trade,,
+TEC,82392,Industrial Attachment Training,,
+TEC,82421,Trade,,
+TEC,82422,Trade,,
+TEC,82492,Industrial Attachment Training,,
+TEC,82521,Trade,,
+TEC,82522,Trade,,
+TEC,82592,Industrial Attachment Training,,
+TEC,82621,Trade,,
+TEC,82622,Trade,,
+TEC,82692,Industrial Attachment Training,,
+TEC,82721,Trade,,
+TEC,82722,Trade,,
+TEC,82792,Industrial Attachment Training,,
+TEC,82821,Trade,,
+TEC,82822,Trade,,
+TEC,82892,Industrial Attachment Training,,
+TEC,82921,Trade,,
+TEC,82922,Trade,,
+TEC,82992,Industrial Attachment Training,,
+TEC,83221,Trade,,
+TEC,83222,Trade,,
+TEC,83292,Industrial Attachment Training,,
+TEC,83321,Trade,,
+TEC,83322,Trade,,
+TEC,83392,Industrial Attachment Training,,
+GCE,Accounting,Accounting,,BUS
+GCE,BENGALI,BENGALI,BNG,
+GCE,Biology,Biology,BIO,SCI
+GCE,BUSINESS_STUDIES,BUSINESS_STUDIES,,BUS
+GCE,Chemistry,Chemistry,CHE,SCI
+GCE,Economics,Economics,ECO,
+GCE,English,ENG,,
+GCE,Further_Pure_Mathematics,Further_Pure_Mathematics,MAT,SCI
+GCE,GEOGRAPHY,GEOGRAPHY,,SCI
+GCE,ICT,ICT,,
+GCE,Mathematics,Mathematics,MAT,SCI
+GCE,Others,Others,,
+GCE,Physics,Physics,PHY,SCI
